@@ -2204,24 +2204,6 @@ SOFTWARE.
 - Polyphase merge
 - Replacement selection
 
-### 💬 Liên Hệ và Hỗ Trợ
-
-- **Issues**: [GitHub Issues](https://github.com/YOUR_REPO/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/YOUR_REPO/discussions)
-- **Email**: your-email@example.com
-
----
-
-<div align="center">
-
-**🎉 Chúc bạn học tốt! 🎉**
-
-*Built with ❤️ for learning and education*
-
-**⭐ Nếu hữu ích, hãy star repo này! ⭐**
-
-</div>
-
 ---
 
 **Thống kê dự án:**
