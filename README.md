@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-**Ứng dụng desktop được xây dựng bằng Electron.js, React và Tailwind CSS**
-
-*Cung cấp trải nghiệm trực quan, từng bước một của thuật toán External Merge Sort*
+  <strong>Ứng dụng desktop được xây dựng bằng Electron.js, React và Tailwind CSS</strong>
+  <br>
+  <em>Cung cấp trải nghiệm trực quan, từng bước một của thuật toán External Merge Sort</em>
 </div>
 
 ## Cài Đặt và Chạy
