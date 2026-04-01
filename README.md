@@ -1,7 +1,10 @@
-<div align="center">
+<center>
+  
 # Ứng Dụng Minh Họa Thuật Toán External Merge Sort
 
+</center>
 
+<div align="center">
 **Ứng dụng desktop được xây dựng bằng Electron.js, React và Tailwind CSS**
 
 *Cung cấp trải nghiệm trực quan, từng bước một của thuật toán External Merge Sort*
