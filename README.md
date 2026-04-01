@@ -1,8 +1,6 @@
-<center>
-  
-# Ứng Dụng Minh Họa Thuật Toán External Merge Sort
-
-</center>
+<div align="center">
+  <h1>Ứng Dụng Minh Họa Thuật Toán External Merge Sort</h1>
+</div>
 
 <div align="center">
 **Ứng dụng desktop được xây dựng bằng Electron.js, React và Tailwind CSS**
